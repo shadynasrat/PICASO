@@ -29,8 +29,19 @@ The integration of robotics and artificial intelligence has paved the way for in
 <br />
 
 
+
+# Roadmap
+
+Here’s what we’ve accomplished and what’s coming soon:
+
+- [x] Launched project website
+- [ ] Implement inference code with ROS2 integration
+- [ ] Publish fine-tuned models
+
 # Overview
-We edit on physical canvas and publish the waypoints to ros topic so integration with different robotic arms is easier.
+
+Our approach involves editing on a physical canvas and publishing the resulting waypoints to a ROS2 topic. This simplifies the integration with various robotic arms, enabling seamless compatibility and deployment.
+
 
 # Installation
 ```

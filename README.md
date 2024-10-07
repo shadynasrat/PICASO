@@ -1,5 +1,6 @@
 <div align="center">
 
+<img width="300px" alt="Graphiti-ts-small" src="https://github.com/shadynasrat/PICaSo/blob/main/docs/PICaSo_files/picaso_logo.png">
 
 # PICaSo: A Collaborative Robotics System for Inpainting on Physical Canvas Using Marker and Eraser
 
@@ -10,8 +11,6 @@
 ![ROS2](https://img.shields.io/badge/ROS-Noetic-white?style=plastic&logo=ros)
 
 Project Page : [Click Here](https://shadynasrat.github.io/PICaSo/)
-
-<img width="" alt="Graphiti-ts-small" src="https://github.com/shadynasrat/PICaSo_proj/blob/main/picaso/assets/picaso_logo.png">
 
 <br />
 

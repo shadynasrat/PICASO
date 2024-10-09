@@ -59,6 +59,11 @@
     border-radius: 3px;
     cursor: pointer;
   }
+  @media (max-width: 768px) {
+              .publication-authors {
+              font-size: 1rem !important;
+              }
+  }
   .lf-progress:focus {
     outline: none;
     border: none;
@@ -5173,9 +5178,9 @@
           <!-- 
             <h1 class="title is-1 publication-title"><em>PICaSo</em></h1>
           -->
-          <h2 class="subtitle is-2 publication-subtitle">PICaSo: A Collaborative Robotics System for Inpainting on Physical Canvas Using Marker and Eraser</h2>
+          <h2 class="subtitle is-2 publication-subtitle" style="font-size: 2rem;">PICaSo: A Collaborative Robotics System for Inpainting on Physical Canvas Using Marker and Eraser</h2>
 
-          <div class="is-size-4 publication-authors" style="margin-bottom: 30px;">
+          <div class="publication-authors" style="margin-bottom: 30px;">
             <span class="author-block">                
               <a href="https://sites.google.com/view/shady-nasrat/"> Shady Nasrat*</a>&nbsp;&nbsp;&nbsp;
               <a> Jae-Bong Yi</a>&nbsp;&nbsp;&nbsp;
@@ -5255,6 +5260,20 @@
         </div>
       </div>
     </div>
+
+    <style>
+      @media (max-width: 768px) {
+        .column.is-two-thirds {
+          width: 100%;
+        }
+        .title.is-2 {
+          font-size: 1.5rem;
+        }
+        .content p {
+          font-size: 0.875rem;
+        }
+      }
+    </style>
   </div>
 </section>
 

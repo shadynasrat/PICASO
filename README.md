@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="300px" alt="Graphiti-ts-small" src="https://github.com/shadynasrat/PICaSo/blob/main/docs/PICaSo_files/picaso_logo.png">
+<img width="300px" alt="Graphiti-ts-small" src="https://github.com/shadynasrat/PICaSo/blob/main/docs/PICaSo_files/static/picaso_logo.png">
 
 ## PICaSo: A Collaborative Robotics System for Inpainting on Physical Canvas Using Marker and Eraser
 
